@@ -1,0 +1,1 @@
+Code and plots for projections of global energy emissions and its subcomponents.
